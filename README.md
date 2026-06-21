@@ -1,5 +1,5 @@
 <!--
-**darkshadowx/darkshadowx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**asifmahmuddev/asifmahmuddev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">Hi 👋, I'm Asif Mahmud (darkshadowx)</h1>
+<h1 align="center">Hi 👋, I'm Asif Mahmud (asifmahmuddev)</h1>
 <h3 align="center">A full-stack developer from Bangladesh</h3>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -199,43 +199,43 @@ Here are some ideas to get you started:
 <hr>
 
 <p align="center">
-  <img width="49%" align="middle" alt="My GitHub General Metrics" src="https://gist.githubusercontent.com/darkshadowx/9d8e044d878631e97ebc5ae00dd864fb/raw/general-metrics.svg"/>
-  <img width="49%" align="middle" alt="My GitHub Extra Metrics" src="https://gist.githubusercontent.com/darkshadowx/9d8e044d878631e97ebc5ae00dd864fb/raw/extra-metrics.svg"/>
+  <img width="49%" align="middle" alt="My GitHub General Metrics" src="https://gist.githubusercontent.com/asifmahmuddev/9d8e044d878631e97ebc5ae00dd864fb/raw/general-metrics.svg"/>
+  <img width="49%" align="middle" alt="My GitHub Extra Metrics" src="https://gist.githubusercontent.com/asifmahmuddev/9d8e044d878631e97ebc5ae00dd864fb/raw/extra-metrics.svg"/>
 </p>
 
 <hr>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=darkshadowx&include_all_commits=true&theme=default&bg_color=00000000&text_color=FFFFFF&title_color=FB8C00&show_icons=true&icon_color=EB5454&hide_border=true"/>
-    <img width="49%" align="middle" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=darkshadowx&include_all_commits=true&theme=default&bg_color=00000000&title_color=FB8C00&show_icons=true&icon_color=EB5454&hide_border=true"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=asifmahmuddev&include_all_commits=true&theme=default&bg_color=00000000&text_color=FFFFFF&title_color=FB8C00&show_icons=true&icon_color=EB5454&hide_border=true"/>
+    <img width="49%" align="middle" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=asifmahmuddev&include_all_commits=true&theme=default&bg_color=00000000&title_color=FB8C00&show_icons=true&icon_color=EB5454&hide_border=true"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=darkshadowx&theme=highcontrast&background=00000000&hide_border=true&fire=EB5454&sideLabels=FB8C00"/>
-    <img width="49%" align="middle" alt="My GitHub streak" src="https://github-readme-streak-stats.herokuapp.com?user=darkshadowx&hide_border=true&fire=EB5454&sideLabels=FB8C00"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=asifmahmuddev&theme=highcontrast&background=00000000&hide_border=true&fire=EB5454&sideLabels=FB8C00"/>
+    <img width="49%" align="middle" alt="My GitHub streak" src="https://github-readme-streak-stats.herokuapp.com?user=asifmahmuddev&hide_border=true&fire=EB5454&sideLabels=FB8C00"/>
   </picture>
 </p>
 
 <hr>
 
 <p align="center">
-  <img width="49%" align="middle" alt="My GitHub Achievements" src="https://gist.githubusercontent.com/darkshadowx/9d8e044d878631e97ebc5ae00dd864fb/raw/achievements-metrics.svg"/>
-  <img width="49%" align="middle" alt="My GitHub Trophies" src="https://gist.githubusercontent.com/darkshadowx/9d8e044d878631e97ebc5ae00dd864fb/raw/trophies-metrics.svg"/>
+  <img width="49%" align="middle" alt="My GitHub Achievements" src="https://gist.githubusercontent.com/asifmahmuddev/9d8e044d878631e97ebc5ae00dd864fb/raw/achievements-metrics.svg"/>
+  <img width="49%" align="middle" alt="My GitHub Trophies" src="https://gist.githubusercontent.com/asifmahmuddev/9d8e044d878631e97ebc5ae00dd864fb/raw/trophies-metrics.svg"/>
 </p>
 
 <hr>
 
 <p align="center">
-  <img width="49%" align="middle" alt="My GitHub Achievements" src="https://gist.githubusercontent.com/darkshadowx/9d8e044d878631e97ebc5ae00dd864fb/raw/contributions-calendar-metrics.svg"/>
-  <img width="49%" align="middle" alt="My GitHub Trophies" src="https://gist.githubusercontent.com/darkshadowx/9d8e044d878631e97ebc5ae00dd864fb/raw/languages-metrics.svg"/>
+  <img width="49%" align="middle" alt="My GitHub Achievements" src="https://gist.githubusercontent.com/asifmahmuddev/9d8e044d878631e97ebc5ae00dd864fb/raw/contributions-calendar-metrics.svg"/>
+  <img width="49%" align="middle" alt="My GitHub Trophies" src="https://gist.githubusercontent.com/asifmahmuddev/9d8e044d878631e97ebc5ae00dd864fb/raw/languages-metrics.svg"/>
 </p>
 
 <hr>
 
 <p align="center">
-  <img width="100%" alt="Contributions Title" src="https://gist.githubusercontent.com/darkshadowx/9d8e044d878631e97ebc5ae00dd864fb/raw/contributions-title.svg"/>
+  <img width="100%" alt="Contributions Title" src="https://gist.githubusercontent.com/asifmahmuddev/9d8e044d878631e97ebc5ae00dd864fb/raw/contributions-title.svg"/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://gist.githubusercontent.com/darkshadowx/9d8e044d878631e97ebc5ae00dd864fb/raw/github-contribution-grid-snake-dark.svg"/>
-    <img width="100%" alt="Snake is eating my contributions" src="https://gist.githubusercontent.com/darkshadowx/9d8e044d878631e97ebc5ae00dd864fb/raw/github-contribution-grid-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gist.githubusercontent.com/asifmahmuddev/9d8e044d878631e97ebc5ae00dd864fb/raw/github-contribution-grid-snake-dark.svg"/>
+    <img width="100%" alt="Snake is eating my contributions" src="https://gist.githubusercontent.com/asifmahmuddev/9d8e044d878631e97ebc5ae00dd864fb/raw/github-contribution-grid-snake.svg"/>
   </picture>
 </p>
